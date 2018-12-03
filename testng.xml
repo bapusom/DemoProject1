@@ -1,0 +1,13 @@
+<suite name="Flipkart Tests">
+	<test name="Header Test">
+		<classes>
+			<class name="com.sears.flipkart.Tests.HeaderTest"/>
+		</classes>
+	</test>
+
+	<test name="Footer Test">
+		<classes>
+			<class name="com.sears.flipkart.Tests.FooterTest"/>
+		</classes>
+	</test>
+</suite>

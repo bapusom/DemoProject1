@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Flipkart Tests" duration-ms="94141" started-at="2016-01-24T15:25:29Z" finished-at="2016-01-24T15:27:03Z">
+    <groups>
+    </groups>
+    <test name="Footer Test" duration-ms="24324" started-at="2016-01-24T15:26:39Z" finished-at="2016-01-24T15:27:03Z">
+      <class name="com.sears.flipkart.Tests.FooterTest">
+        <test-method status="PASS" signature="setUP()" name="setUP" is-config="true" duration-ms="23877" started-at="2016-01-24T15:25:05Z" finished-at="2016-01-24T15:25:29Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="6160" started-at="2016-01-24T15:26:39Z" finished-at="2016-01-24T15:26:45Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyCareersPageOnFooter()" name="verifyCareersPageOnFooter" duration-ms="18164" started-at="2016-01-24T15:26:45Z" finished-at="2016-01-24T15:27:03Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Header Test" duration-ms="69653" started-at="2016-01-24T15:25:29Z" finished-at="2016-01-24T15:26:38Z">
+      <class name="com.sears.flipkart.Tests.HeaderTest">
+        <test-method status="PASS" signature="get()" name="get" duration-ms="2" started-at="2016-01-24T15:25:29Z" finished-at="2016-01-24T15:25:29Z">
+        </test-method>
+        <test-method status="PASS" signature="verifySearchProduct(java.lang.String, java.lang.String)" name="verifySearchProduct" duration-ms="14166" started-at="2016-01-24T15:25:37Z" description="This test verifies the search product functionality on header." finished-at="2016-01-24T15:25:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="verifySearchProduct(java.lang.String, java.lang.String)" name="verifySearchProduct" duration-ms="5084" started-at="2016-01-24T15:25:51Z" description="This test verifies the search product functionality on header." finished-at="2016-01-24T15:25:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fridge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Refrigerator]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="verifySearchProduct(java.lang.String, java.lang.String)" name="verifySearchProduct" duration-ms="4900" started-at="2016-01-24T15:25:56Z" description="This test verifies the search product functionality on header." finished-at="2016-01-24T15:26:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laptop]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="verifySearchProduct(java.lang.String, java.lang.String)" name="verifySearchProduct" duration-ms="4690" started-at="2016-01-24T15:26:01Z" description="This test verifies the search product functionality on header." finished-at="2016-01-24T15:26:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[on5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[on5]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="verifySearchProduct(java.lang.String, java.lang.String)" name="verifySearchProduct" duration-ms="811" started-at="2016-01-24T15:26:05Z" description="This test verifies the search product functionality on header." finished-at="2016-01-24T15:26:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="verifySellPage()" name="verifySellPage" duration-ms="32251" started-at="2016-01-24T15:26:06Z" description="Verify Sell link works on header" finished-at="2016-01-24T15:26:38Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

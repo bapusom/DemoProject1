@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="User-PC" name="com.sears.flipkart.Tests.HeaderTest" tests="7" failures="0" timestamp="24 Jan 2016 09:56:39 GMT" time="69.653" errors="0">
+  <testcase name="get" time="0.002" classname="com.sears.flipkart.Tests.HeaderTest"/>
+  <testcase name="verifySearchProduct" time="14.166" classname="com.sears.flipkart.Tests.HeaderTest"/>
+  <testcase name="verifySearchProduct" time="5.084" classname="com.sears.flipkart.Tests.HeaderTest"/>
+  <testcase name="verifySearchProduct" time="4.9" classname="com.sears.flipkart.Tests.HeaderTest"/>
+  <testcase name="verifySearchProduct" time="4.69" classname="com.sears.flipkart.Tests.HeaderTest"/>
+  <testcase name="verifySearchProduct" time="0.811" classname="com.sears.flipkart.Tests.HeaderTest"/>
+  <testcase name="verifySellPage" time="32.251" classname="com.sears.flipkart.Tests.HeaderTest"/>
+</testsuite>

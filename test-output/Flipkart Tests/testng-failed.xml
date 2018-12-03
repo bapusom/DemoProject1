@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Flipkart Tests]">
+  <test name="Footer Test(failed)">
+    <classes>
+      <class name="com.sears.flipkart.Tests.FooterTest">
+        <methods>
+          <include name="setUP"/>
+          <include name="verifyCareersPageOnFooter"/>
+        </methods>
+      </class> <!-- com.sears.flipkart.Tests.FooterTest -->
+    </classes>
+  </test> <!-- Footer Test(failed) -->
+</suite> <!-- Failed suite [Flipkart Tests] -->
